@@ -1,0 +1,25 @@
+{
+  "name": "next-sendgrid",
+  "version": "1.0.0",
+  "description": "Example of sendGrid with Next.js",
+  "main": "index.js",
+  "author": "Markoz Peña Mendez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "next": "^9.1.7",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.4",
+    "@types/react": "^16.9.17",
+    "node-fetch": "^2.6.0",
+    "typescript": "^3.7.4"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
